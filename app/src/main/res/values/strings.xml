@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inovasipembelajaran</string>
+    <string name="tujuan_pembelajaran">Setelah mempelajari bab ini, kalian mampu berkolaborasi dalam tim
+        dan mengomunikasikan hasilnya dengan efektif dan efisien.</string>
+    <string name="pertanyaan_pemantik">Kapan terakhir kali kalian bekerja dalam kelompok dan presentasi?
+        Apakahkalian melakukan kesepakatan sebelum mulai mengerjakan tugas? Apakahlebih menyenangkan
+        dibandingkan jika kerja sendiri? Apakah presentasikalian menarik?</string>
+</resources>
